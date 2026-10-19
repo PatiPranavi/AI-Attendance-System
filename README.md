@@ -1,6 +1,6 @@
 # AI Attendance Management System
 
-This is a robust, CCTV-based AI Attendance Management System.
+This is a CCTV-based AI Attendance Management System.
 
 ## Features
 
